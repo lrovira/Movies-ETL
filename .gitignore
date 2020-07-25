@@ -1,3 +1,3 @@
 
-*.csv
-*.ipynb
+ratings.csv
+movies.csv
